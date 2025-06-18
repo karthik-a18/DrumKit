@@ -21,10 +21,12 @@ Project Structure
 
   / (Root)
   │
+  
   ├── index.html       
   ├── styles.css       
   ├── index.js          
   ├── /sounds
+  
   └── /images  
 
 Notes
