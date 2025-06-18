@@ -25,15 +25,15 @@ Tech Stack
 
 Project Structure
 
-  / (Root)
-  │
+      / (Root)
+      │
   
-  ├── index.html       
-  ├── styles.css       
-  ├── index.js          
-  ├── /sounds
+      ├── index.html       
+      ├── styles.css       
+      ├── index.js          
+      ├── /sounds
   
-  └── /images  
+      └── /images  
 
 Notes
 
